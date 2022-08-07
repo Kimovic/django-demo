@@ -1,0 +1,9 @@
+asgiref @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/22/46/4d/e9d170f76cad59b81e4568f6b37cce88f46df63c197e476a1020862182/asgiref-3.5.2-py3-none-any.whl
+black @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/2f/be/48/b8273e87c2e4b18ca0816502d655838034ae837ff42df9bce4923dd99c/black-22.6.0-cp310-cp310-macosx_11_0_arm64.whl
+click @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/63/f3/4c/2270b95f4d37b9ea73cd401abe68b6e9ede30380533cd4e7118a8e3aa3/click-8.1.3-py3-none-any.whl
+Django @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/f6/42/55/34bad728e835f7d80666fd1fdc5adfb229adc3af1eb00ab2e9b80d1c9d/Django-4.1-py3-none-any.whl
+mypy-extensions @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/2f/c6/09/3e1afdcb75322c65b786e63cd7e879b6be3db36dea78ca376db5483ae4/mypy_extensions-0.4.3-py2.py3-none-any.whl
+pathspec @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/48/a0/9f/f5128d9e11d591bca7a942dd80ec44f9b2de8294775c68e0b99beeef93/pathspec-0.9.0-py2.py3-none-any.whl
+platformdirs @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/ea/8e/52/e5ac2f14474cef8f0fd44b4aa7d6968bfa89442d1b88ab567c446eae70/platformdirs-2.5.2-py3-none-any.whl
+sqlparse @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/10/f5/22/c9c991a71e27c4d8f69907d92cce74a369cbb3183dc4a6d27e2ae4ab0b/sqlparse-0.4.2-py3-none-any.whl
+tomli @ file:///Users/kemovic/Library/Caches/pypoetry/artifacts/62/12/b6/6db9ebb9c8e1a6c5aa8a92ae73098d8119816b5e8507490916621bc305/tomli-2.0.1-py3-none-any.whl
